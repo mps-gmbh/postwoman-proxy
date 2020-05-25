@@ -9,6 +9,8 @@
 
 ---
 
+**Warning:** This fork disables CORS and should therefore only be used on servers not reachable from the internet.
+
 A simple proxy server created by [@NBTX](https://github.com/NBTX/) for [Postwoman](https://github.com/liyasthomas/postwoman/) and hosted by [Apollo Software](https://apollosoftware.xyz/).
 
 ## Demo 🚀
